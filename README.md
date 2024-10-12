@@ -1,4 +1,5 @@
-Spotify Data Analysis Case Study
+#Spotify Data Analysis Case Study
+
 Project Overview
 This project involves analyzing a Spotify dataset containing over 20,000 rows to identify trends in streams, audience engagement, and artist performance across platforms. The analysis is performed using SQL and focuses on answering a series of business-critical questions. Key areas of focus include the performance of artists on Spotify and YouTube, track popularity, and collaboration impact.
 
